@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 
-const WHATSAPP_NUMBER = '34XXXXXXXXX' // Reemplaza con tu número real
+const WHATSAPP_NUMBER = '34640943669'
 
 const WhatsAppButton = () => {
   const handleClick = () => {

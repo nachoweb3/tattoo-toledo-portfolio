@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 import { useState } from 'react'
 
-const WHATSAPP_NUMBER = '34XXXXXXXXX' // Reemplaza con tu número real
+const WHATSAPP_NUMBER = '34640943669'
 
 const styles = [
   { value: 'realism', label: 'Realismo' },
